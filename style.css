@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: black;
+  text-align: center;
+}
+.navbar a{
+  text-align: center;
+  background-color: grey;
+  padding: 5px;
+  margin-left: 10px;
+}
+img{
+  align-items: center;
+  margin-left: 250px;
+}
+#about{
+  margin-left: 480px;
+}
+p{
+  text-align: center;
+}
+figcaption{
+  text-align: center;
+}
+#details{
+  background-color:rgb(255, 89, 0);
+  display:flex;
+}
+
+div{
+  justify-content: space-between;
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.test{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
